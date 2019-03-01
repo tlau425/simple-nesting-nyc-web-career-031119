@@ -57,7 +57,7 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-     array = 
+     array = programmer
 end
 
 def adding_matz
